@@ -1,0 +1,37 @@
+body{
+  font-family: Arial;
+  margin:0;
+  padding:0;
+}
+
+.header{
+  background:#222;
+  color:white;
+  padding:20px;
+  text-align:center;
+}
+
+.footer{
+  background:#222;
+  color:white;
+  text-align:center;
+  padding:10px;
+}
+
+#catalogo{
+  display:flex;
+  gap:20px;
+  padding:20px;
+}
+
+.card{
+  border:1px solid #ccc;
+  padding:15px;
+  width:200px;
+  border-radius:8px;
+}
+
+.price{
+  font-weight:bold;
+  color:green;
+}
