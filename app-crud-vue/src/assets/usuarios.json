@@ -1,0 +1,16 @@
+[
+{
+"user": "Juan",
+"pass": "1234", "role": "Admin"
+},
+{
+"user": "Maria",
+"pass": "4321",
+"role": "User"
+},
+{
+"user": "Ana",
+"pass": "9999",
+"role": "User"
+}
+]
